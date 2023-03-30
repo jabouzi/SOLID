@@ -1,4 +1,4 @@
-package com.skanderjabouzi.solid.singleresponsibility.good
+package com.skanderjabouzi.solid.singleresponsibility.good;
 
 public class FinITCalculations{
     public Double calcIncomeTaxForCurrentYear(Employee emp){
